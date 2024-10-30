@@ -1,6 +1,5 @@
 /*
 * To do:
-* 2. Delete account
 */
 
 const demoUsers = JSON.parse(localStorage.getItem('demoUsers')) || [];
